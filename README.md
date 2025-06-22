@@ -1,7 +1,16 @@
-- 👋 Hi, I’m @knefrus
-- 👀 I’m interested in drones, python
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>GitHub Profile Header</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
 
-<!---
-knefrus/knefrus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<div class="header">
+    <h1>My GitHub Profile</h1>
+    <p> Ya krutoy specialist !</p>
+</div>
+
+</body>
+</html>
