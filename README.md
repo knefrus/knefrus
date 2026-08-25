@@ -84,6 +84,10 @@
 
 <div align="center">
 
+<img src="assets/vibe.gif" width="220" />
+
+<br/>
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1793D1,100:FF61F6&height=120&section=footer" />
 
 <sub>btw i use arch</sub>
