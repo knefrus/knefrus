@@ -56,15 +56,14 @@ I build and run IT projects from scratch — business automations, AI-powered so
 
 </div>
 
-> Анимация змейки генерируется автоматически через GitHub Actions (см. `.github/workflows/snake.yml`) и «съедает» твои коммиты из графика контрибуций.
-
 <br/>
 
 ## `~ quote`
 
 <div align="center">
 
-> "The scariest moment is always just before you start." — Stephen King
+> ### *"The scariest moment is always just before you start."*
+> **— Stephen King**
 
 </div>
 
@@ -76,7 +75,7 @@ I build and run IT projects from scratch — business automations, AI-powered so
 
 <a href="https://t.me/mrknef"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/></a>
 <a href="mailto:nikitos@kapi-bara.ru"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://nikitos.site"><img src="https://img.shields.io/badge/Website-nikitos.site-000000?style=for-the-badge&logo=safari&logoColor=white"/></a>
+<a href="https://nikitos.site"><img src="https://img.shields.io/badge/-nikitos.site-000000?style=for-the-badge&logo=safari&logoColor=white"/></a>
 
 </div>
 
