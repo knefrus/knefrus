@@ -5,11 +5,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00FF9C&center=true&vCenter=true&width=550&height=60&lines=knefrus+%40+space+~+%25;Machine+Learning+%7C+Data+Science;IT+Projects+Creator" alt="Typing SVG" />
 </a>
 
-<br/><br/>
-
-<img src="https://img.shields.io/badge/OS-Arch%20Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" />
-<img src="https://img.shields.io/badge/WM-Hyprland-00C58E?style=for-the-badge&logo=wayland&logoColor=white" />
-<img src="https://img.shields.io/badge/Editor-Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white" />
+<br/>
 
 </div>
 
