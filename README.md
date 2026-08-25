@@ -19,7 +19,7 @@
 
 **ML Student at Central University**
 
-Создаю и веду с нуля любые IT-проекты, автоматизации бизнеса, решения с ИИ.
+I build and run IT projects from scratch — business automations, AI-powered solutions, and everything in between.
 
 <br/>
 
