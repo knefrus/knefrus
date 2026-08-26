@@ -7,8 +7,6 @@
 
 <br/>
 
-<img src="assets/anime_banner.svg" width="700" />
-
 </div>
 
 <br/>
