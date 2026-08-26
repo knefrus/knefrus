@@ -81,10 +81,6 @@ I build and run IT projects from scratch — business automations, AI-powered so
 
 <img src="assets/moon.jpg" width="700" />
 
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1793D1,100:FF61F6&height=120&section=footer" />
-
 <sub>btw i use arch</sub>
 
 </div>
