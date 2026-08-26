@@ -81,7 +81,7 @@ I build and run IT projects from scratch — business automations, AI-powered so
 
 <div align="center">
 
-<img src="assets/vibe.gif" width="220" />
+<img src="assets/moon.jpg" width="700" />
 
 <br/>
 
