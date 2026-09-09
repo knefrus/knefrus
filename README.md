@@ -5,7 +5,7 @@
 
 Занимаюсь прикладным ML: веду полный пайплайн, объясняю результаты.
 
-Москва · [Telegram @mrknef](https://t.me/mrknef) · [Резюме](https://knefrus.github.io/resume/)
+Москва · [Telegram @mrknef](https://t.me/mrknef) · [Резюме](https://nikitos.site/resume)
 
 ---
 
