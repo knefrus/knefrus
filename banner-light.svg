@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 210" width="1000" height="210" role="img" aria-label="Никита Кубарев, ML Engineer">
+  <style>
+    .n{font:600 54px -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;letter-spacing:-1.6px}
+    .r{font:500 20px -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;letter-spacing:-.2px}
+    .m{font:400 13px ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;letter-spacing:1.4px}
+    .t{font:400 13px ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;letter-spacing:.6px}
+  </style>
+  <rect width="1000" height="210" fill="#ffffff"/>
+  <text class="n" x="56" y="86" fill="#0b0b0c">НИКИТА КУБАРЕВ</text>
+  <text class="r" x="59" y="120" fill="#5d6266">ML Engineer</text>
+  <line x1="56" y1="150" x2="944" y2="150" stroke="#e2e4e6" stroke-width="1"/>
+  <text class="m" x="58" y="176" fill="#8b9096">ЦЕНТРАЛЬНЫЙ УНИВЕРСИТЕТ · ИСКУССТВЕННЫЙ ИНТЕЛЛЕКТ · 2029</text>
+  <text class="t" x="944" y="176" fill="#b0b5b9" text-anchor="end">Python · ML · Linux</text>
+  <g fill="#0b0b0c">
+    <circle cx="906" cy="72" r="3"/><circle cx="924" cy="60" r="3"/><circle cx="942" cy="66" r="3"/>
+    <circle cx="888" cy="82" r="3" opacity=".45"/><circle cx="870" cy="79" r="3" opacity=".25"/>
+  </g>
+  <path d="M862 88 L888 82 L906 72 L924 60 L942 66" fill="none" stroke="#0b0b0c" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" opacity=".5"/>
+</svg>
