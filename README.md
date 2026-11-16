@@ -31,8 +31,9 @@ Moscow · [Telegram](https://t.me/mrknef)
 **System Design**  
 `BPMN 2.0` `UML` `Requirements Analysis` `CI/CD`
 
-**UAV Engineering**  
-`COEX Clever 4` `Drone Assembly` `Flight Controller Setup` `Python` `Flight Testing`
+**UAV Enthusiast**  
+`Drone Assembly` `Configuration` `Piloting` `Python Programming` `Flight Testing` `COEX Clever 4`
+
 
 ---
 
