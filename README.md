@@ -1,56 +1,69 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="banner-dark.svg">
-  <img src="banner-light.svg" alt="Никита Кубарев — ML Engineer">
-</picture>
 
-Занимаюсь прикладным ML: веду полный пайплайн, объясняю результаты.
+<p align="center">
+  <img src="assets/banner.png" alt="KNEFRUS — ML / Backend / Linux" width="100%">
+</p>
 
-Москва · [Telegram @mrknef](https://t.me/mrknef)
+### Nikita Kubarev
+
+**ML · Data Science · Analytics · Vibe-backend**  
+Central University '29
+
+Into machine learning, product analytics, managing network infrastructure, and building projects through vibe coding.
+
+Moscow · [Telegram](https://t.me/mrknef)
 
 ---
 
-## Проекты
+## 01 / Toolkit
 
-### Прогнозирование отказов серверов
+**ML & Data Science**  
+`Python` `pandas` `NumPy` `scikit-learn` `CatBoost` `LightGBM` `XGBoost` `Optuna` `SHAP`
 
-Прогноз отказа веб-сервиса примерно за 100 секунд. Реальные данные, проверка по времени и на незнакомой машине. В одинаковом режиме мониторинга модель дала 4 полезные тревоги из 5, порог по одной метрике — 0 из 12. Recall 13 %, ограничения описаны в README.
+**Product Analytics & Statistics**  
+`SQL` `A/B Testing` `Product Metrics` `Cohort Analysis` `Unit Economics` `Hypothesis Testing` `Bootstrap`
 
-`Prometheus` `CatBoost` `SHAP` `aiogram` `systemd`
+**Backend & Databases**  
+`FastAPI` `aiogram 3` `SQLAlchemy` `Alembic` `REST API` `PostgreSQL` `MongoDB` `Redis`
 
-### Прогрессия после гамма-ножа
+**Infrastructure & Networking**  
+`Linux` `Docker Compose` `Caddy` `Nginx` `systemd` `Bash` `Prometheus` `TCP/IP` `DNS / TLS` `UFW` `Git`
 
-Прогноз повторного роста метастазов после радиохирургии. Клинические данные НМИЦ им. Бурденко, 583 пациента, работа в команде научной студии. **PR-AUC 0.899** при базовом уровне 0.657. Нашел и устранил утечку при подборе порога, проверил результат вложенной кросс-валидацией.
+**System Design**  
+`BPMN 2.0` `UML` `Requirements Analysis` `CI/CD`
+
+**UAV Engineering**  
+`COEX Clever 4` `Drone Assembly` `Flight Controller Setup` `Python` `Flight Testing`
+
+---
+
+## 02 / Selected Work
+
+### Server Failure Prediction
+
+`CatBoost` `SHAP` `Prometheus` `scikit-learn` `systemd`
+
+### Brain Tumor Progression Prediction
 
 `CatBoost` `LightGBM` `XGBoost` `Optuna` `SHAP`
 
 ### PRIME
 
-Проект под заказчика — Telegram мини-приложение и бот для клуба мероприятий: регистрация, профили, механики для участников, админка.
+Telegram Mini App, bot, and admin dashboard for an events club. Built solo, from requirements and system design to deployment, testing, and maintenance.
 
-`FastAPI` `aiogram 3` `SQLAlchemy async` `PostgreSQL`
+`FastAPI` `aiogram 3` `SQLAlchemy` `PostgreSQL` `Docker Compose`
 
-### Своя сетевая инфраструктура
+### Network Infrastructure
 
-VPS под полным управлением: ноды, бот, веб-панель, мониторинг. Администрирование, домены, поддержка пользователей.
+Managing Linux VPS nodes, VPN/proxy services, cascaded connections, and secure traffic routing. Centralized control via a web panel and Telegram bot, with automated deployment, monitoring, DNS/TLS, and troubleshooting.
 
-`Linux` `systemd` `Docker` `Nginx` `Prometheus`
-
----
-
-## Навыки
-
-| Область | Инструменты |
-|---|---|
-| **ML** | CatBoost, LightGBM, XGBoost, scikit-learn, Optuna, SHAP |
-| **Методы и данные** | feature engineering, вложенная кросс-валидация, дисбаланс классов, pandas, NumPy, Matplotlib |
-| **Backend и БД** | Python, FastAPI, aiogram 3, SQLAlchemy async, PostgreSQL, MongoDB, Redis |
-| **Инфраструктура** | Linux, Bash, Docker, Git, Nginx, systemd, Prometheus |
-| **Языки** | Python, SQL, Bash · English B1 |
+`Linux` `Docker Compose` `Caddy` `DNS / TLS` `TCP/IP` `UFW` `Bash` `Prometheus`
 
 ---
 
-## Еще
+## 03 / Beyond Code
 
-Двукратный чемпион России в соревнованиях «Профессионалы»  
-Играю в большой теннис 13 лет  
-Arch Linux как вторая система, сторонник
+- Two-time Russian national UAV champion at the *Professionals* Championship.
+- Playing tennis since age five.
+- Arch Linux enthusiast.
+
+[Telegram](https://t.me/mrknef) · [GitHub](https://github.com/knefrus)
