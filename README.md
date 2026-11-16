@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="assets/banner.png" alt="KNEFRUS — ML / Backend / Linux" width="100%">
+  <img src="banner.png" alt="KNEFRUS" width="100%">
 </p>
 
 ### Nikita Kubarev
